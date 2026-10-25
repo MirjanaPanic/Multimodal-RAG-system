@@ -1,0 +1,513 @@
+{
+  "0457": {
+    "bez_raga": {
+      "tip": "uncertain",
+      "uvod": "Based on your description, the system is not entirely sure, but here are the most likely species matching your plant.",
+      "vrste": [
+        {
+          "naziv": "Cerastium tomentosum",
+          "opis": "This low-growing perennial features soft, silvery-gray fuzzy leaves that form a dense carpet. It produces small, upright, star-shaped white flowers in late spring. The plant typically stays under a foot tall, making it a popular ground cover."
+        },
+        {
+          "naziv": "Stachys byzantina",
+          "opis": "Known commonly as lamb's ear, this plant has extremely soft, woolly, gray-green leaves that feel like velvet. While primarily grown for its foliage, it can produce upright spikes of small whitish or pale purple flowers. It generally forms a low-growing mat close to the ground."
+        }
+      ]
+    },
+    "sa_ragom": {
+      "tip": "nesiguran",
+      "uvod": "The system is not sure; these are the most likely species, in order from the most likely.",
+      "vrste": [
+        {
+          "specie_id": "0475",
+          "naziv": "Anemonoides sylvestris",
+          "opis": "This species grows 1 to 1.5 feet tall and features white, fragrant flowers that bloom in April. The flowers have five petals and yellow anthers in the center.",
+          "izvor": "https://en.wikipedia.org/wiki/Anemonoides_sylvestris",
+          "slike": [
+            "/slike/0475/0021bee35329d86aa9eeb174a607a5a23947ced4.jpg",
+            "/slike/0475/002243ab5da84cb1a926910eb2c19cdd027397ab.jpg",
+            "/slike/0475/00854b45963440eac61b002bce95129319fd54da.jpg"
+          ]
+        },
+        {
+          "specie_id": "0010",
+          "naziv": "Phyllanthus tenellus",
+          "opis": "It grows to be 20 to 50 cm tall with a main stem that lacks leaves and instead has small scales. The secondary stems hold the small, inconspicuous, and unisexual flowers along with the leaves, with both male and female flowers found on the same plant.",
+          "izvor": "https://en.wikipedia.org/wiki/Phyllanthus_tenellus",
+          "slike": [
+            "/slike/0010/00380f62e60d35a6d6fa3f5e1b37d458d646a1f9.jpg",
+            "/slike/0010/0678b9205e0e18d48d63679ae06321fa2660dac2.jpg",
+            "/slike/0010/07717ecea82f4eabbfee9955f784420ff8aab295.jpg"
+          ]
+        },
+        {
+          "specie_id": "0793",
+          "naziv": "Lycoris squamigera",
+          "opis": "This herbaceous plant produces abundant, long leaves from bulbs in the spring that die back by June. Later in mid to late summer, white or pink fragrant flowers emerge dramatically from the bare ground without any leaves.",
+          "izvor": "https://en.wikipedia.org/wiki/Lycoris_squamigera",
+          "slike": [
+            "/slike/0793/04ae58225d8e3935d3f19535808e11d09573c8fd.jpg",
+            "/slike/0793/04e5862fbc0a13f2c5856c6833b0b2a0d652d092.jpg",
+            "/slike/0793/04ed853c4d1fc5ed1915158e85072b4a4dc7acce.jpg"
+          ]
+        }
+      ],
+      "grane": {
+        "slika": "no_result",
+        "tekst": "nesiguran"
+      }
+    }
+  },
+  "0164": {
+    "bez_raga": {
+      "tip": "confident",
+      "uvod": "Based on your description, the plant was identified as the Yellow Bee Orchid.",
+      "vrste": [
+        {
+          "naziv": "Ophrys lutea",
+          "opis": "This is a small wild orchid reaching up to 40 cm in height with several large flowers per stem. The flowers feature greenish-yellow outer sepals and a very distinctive, three-lobed velvety lip with a bright yellow margin and a reddish-brown center marked with a bluish-grey W-shaped pattern. It often grows in colonies in sunny, calcareous grasslands and scrub."
+        }
+      ]
+    },
+    "sa_ragom": {
+      "tip": "siguran",
+      "uvod": "The plant was successfully identified as Ophrys lutea.",
+      "vrste": [
+        {
+          "specie_id": "0164",
+          "naziv": "Ophrys lutea",
+          "opis": "Ophrys lutea grows to around 40cm and each lax inflorescence can carry up to 10 large flowers. The sepals and petals are greenish-yellow. The lip of the flower has a broad bright yellow border surrounding a reddish brown centre which has a grey or blue speculum forming a W-shape.",
+          "izvor": "https://www.first-nature.com/flowers/ophrys-lutea.php",
+          "slike": [
+            "/slike/0164/004cf3106951685f9e797dd5ecc565ca373b7e11.jpg",
+            "/slike/0164/006f25955e7e8ab8c679d48d73557a1bc6060b44.jpg",
+            "/slike/0164/00a2540642a0587c01f9d34af391de0425df01db.jpg"
+          ]
+        }
+      ],
+      "grane": {
+        "slika": "no_result",
+        "tekst": "siguran"
+      }
+    }
+  },
+  "0047": {
+    "bez_raga": {
+      "tip": "confident",
+      "uvod": "Based on your description, the plant was identified as Sedum album.",
+      "vrste": [
+        {
+          "naziv": "Sedum album",
+          "opis": "This low-growing succulent forms dense mats of fleshy, sausage-shaped leaves that can turn reddish-pink under stress or drought. In mid-summer, it produces upright stems topped with clusters of star-shaped, tiny white flowers. The stems often have a pinkish-brown tint and help the plant spread easily along rocky ground or walls."
+        }
+      ]
+    },
+    "sa_ragom": {
+      "tip": "nesiguran",
+      "uvod": "The system is not sure which plant this is. These are the most likely species, in order from the most likely.",
+      "vrste": [
+        {
+          "specie_id": "0047",
+          "naziv": "Sedum album",
+          "opis": "White stonecrop is a tufted perennial herb that forms mat-like stands with short, semi-prostrate stems for much of the year. During July and August, the flowering stems lengthen and become erect, occasionally branched, and often pinkish-brown. The leaves are alternate, fleshy, nearly cylindrical with a blunt rounded tip, and sometimes tinged with pink. Starry flowers form a dense cyme with five white petals.",
+          "izvor": "https://en.wikipedia.org/wiki/Sedum_album",
+          "slike": [
+            "/slike/0047/000b9f319c1ecb77ac84d6698fa8c4c7f8a46bab.jpg",
+            "/slike/0047/0017439c2d31abbbb54b7d641f59395b7bbf93e3.jpg",
+            "/slike/0047/0029184866670e6bcc936f22e9f4d563bba77305.jpg"
+          ]
+        },
+        {
+          "specie_id": "0225",
+          "naziv": "Trifolium repens",
+          "opis": "This is a low-growing herbaceous perennial plant that forms mats using creeping stems called stolons. The leaves are smooth, long-petioled, and trifoliolate with elliptic to egg-shaped leaflets that usually feature light or dark markings. It produces flowering heads of whitish florets, often with a tinge of pink or cream, at the end of long inflorescence stalks.",
+          "izvor": "https://en.wikipedia.org/wiki/Trifolium_repens",
+          "slike": [
+            "/slike/0225/001f99e5c178ac2c3b2bf0cae257f34e3f7a72dc.jpg",
+            "/slike/0225/003016d182c24a8d2a3b49bf6ec3cbc5aa845bd0.jpg",
+            "/slike/0225/0053ed5b30b379684fa175f44b20c684ba5bbaba.jpg"
+          ]
+        },
+        {
+          "specie_id": "0046",
+          "naziv": "Sedum acre",
+          "opis": "The biting stonecrop is a tufted evergreen perennial growing 5 to 12 cm tall and forming mat-like stands. Its stems are short and semi-prostrate for most of the year, but lengthen and become erect and pinkish-brown during the flowering period in June and July. The leaves are alternate, fleshy, shortly cylindrical with a rounded tip, and sometimes tinged with red. The starry flowers consist of five regular bright yellow petals.",
+          "izvor": "https://en.wikipedia.org/wiki/Sedum_acre",
+          "slike": [
+            "/slike/0046/0125e91c0a1d34918c299da963ac66ad27e65aef.jpg",
+            "/slike/0046/014d5d215ede5b5f4117b72d93a31adfb5612622.jpg",
+            "/slike/0046/01545ef781d9ef13b795ab4ffd3f04c149dba977.jpg"
+          ]
+        }
+      ],
+      "grane": {
+        "slika": "no_result",
+        "tekst": "nesiguran"
+      }
+    }
+  },
+  "0042": {
+    "bez_raga": {
+      "tip": "confident",
+      "uvod": "The plant in the photo has been identified as Nipplewort.",
+      "vrste": [
+        {
+          "naziv": "Lapsana communis",
+          "opis": "Nipplewort is a slender, branching annual plant that typically grows up to one meter tall. It features small, bright yellow daisy-like flowers arranged in loose clusters. The lower leaves are deeply lobed, while the upper leaves become smaller and lance-shaped. The stems are upright, smooth, and contain a milky juice."
+        }
+      ]
+    },
+    "sa_ragom": {
+      "tip": "nesiguran",
+      "uvod": "The system is not sure; these are the most likely species, in order from the most likely.",
+      "vrste": [
+        {
+          "specie_id": "0042",
+          "naziv": "Lactuca muralis",
+          "opis": "Lactuca muralis is a slender, hairless herb with often purplish stems and a milky juice, growing from 25 to 150 cm tall. Its lower leaves are lyre and pinnate shaped with a large terminal lobe, while upper leaves are smaller and stalkless. The small yellow flower heads have only 4 to 5 ray florets and appear in loose panicles.",
+          "izvor": "https://en.wikipedia.org/wiki/Lactuca_muralis",
+          "slike": [
+            "/slike/0042/013c353139f21bf21c376e35806a374525b88b8d.jpg",
+            "/slike/0042/018f892f7d0809a043ba994decc480440a0b8c2a.jpg",
+            "/slike/0042/026d6ce7a5bed69a651049ea413c5e9b9af7d4e7.jpg"
+          ]
+        },
+        {
+          "specie_id": "0419",
+          "naziv": "Lactuca viminea",
+          "opis": "Lactuca viminea is a branching subshrub growing up to 30 cm tall. Leaves near the base are pinnately lobed, while stem leaves are narrow and linear, becoming smaller and scale-like higher up the plant. The flower heads feature 4 to 5 yellow ray flowers without any disc flowers.",
+          "izvor": "https://en.wikipedia.org/wiki/Lactuca_viminea",
+          "slike": [
+            "/slike/0419/01e88b6957797c340ae9379b3f21e529e6485a18.jpg",
+            "/slike/0419/03177b9df3f180d0e28464162b583ba40e4c878d.jpg",
+            "/slike/0419/03d06710417185c2a24abab84d2f48853bdf85d1.jpg"
+          ]
+        },
+        {
+          "specie_id": "0244",
+          "naziv": "Lapsana communis",
+          "opis": "Lapsana communis is an herbaceous plant growing up to 1.2 m tall with erect, hairy branching stems and milky sap. Its leaves have toothed margins, with larger basal leaves often being pinnate and smaller upper leaves being simple and oval. The numerous pale yellow flowers are produced in loose clusters and consist of eight to fifteen tongue-shaped florets.",
+          "izvor": "https://en.wikipedia.org/wiki/Lapsana_communis",
+          "slike": [
+            "/slike/0244/001383da05b5415990441c9fd3a7a107a42ec427.jpg",
+            "/slike/0244/00c21cc0a4b77f778f15e06bbdc27dfe3e70729f.jpg",
+            "/slike/0244/00c2f3e0dd525f1521778854613818d70099f77b.jpg"
+          ]
+        }
+      ],
+      "grane": {
+        "slika": "nesiguran",
+        "tekst": "no_result"
+      }
+    }
+  },
+  "0174": {
+    "bez_raga": {
+      "tip": "confident",
+      "uvod": "The plant was identified as crimson clover.",
+      "vrste": [
+        {
+          "naziv": "Trifolium incarnatum",
+          "opis": "Crimson clover is easily recognised by its bright crimson or dark pink, elongated flower spikes that look somewhat like little torches. It features hairy stems and leaves divided into three oval leaflets, often marked with a faint light band. This annual plant typically grows up to fifty centimetres tall and is commonly found in fields, meadows, and along roadsides."
+        }
+      ]
+    },
+    "sa_ragom": {
+      "tip": "nesiguran",
+      "uvod": "The system is not sure which species this is, but here are the most likely matches in order.",
+      "vrste": [
+        {
+          "specie_id": "0104",
+          "naziv": "Trifolium incarnatum",
+          "opis": "This upright annual herb grows to 20 to 50 centimetres tall and has hairy, trifoliate leaves with long petioles. It produces flowers throughout the spring and summer that range from creamy white to rich red or crimson on elongated spike inflorescences.",
+          "izvor": "https://en.wikipedia.org/wiki/Trifolium_incarnatum",
+          "slike": [
+            "/slike/0104/0004af56f320ea0af807888b192df10ffdfc602f.jpg",
+            "/slike/0104/00292ac67a7b7a5bafb295f39ed644e75e1d931c.jpg",
+            "/slike/0104/00f80aa50c46959465c8e464d497be7cef400bbc.jpg"
+          ]
+        },
+        {
+          "specie_id": "0174",
+          "naziv": "Trifolium rubens",
+          "opis": "This clump-forming bushy perennial grows up to 60cm tall and wide with blue-green leaves comprising lance-shaped leaflets featuring tiny teeth and silvery hairs. Its flowers are held in pointed clusters up to 8cm long and open in a dark red-purple color.",
+          "izvor": "https://www.rhs.org.uk/plants/41779/trifolium-rubens/details",
+          "slike": [
+            "/slike/0174/00d4ec49c26e8aae3f94a0c24cf23c5fa17010bc.jpg",
+            "/slike/0174/014519307842c41d20c99d9418eed99651bf0ac8.jpg",
+            "/slike/0174/02373256d084d5300ccb7f1148c16cd8c81ae66f.jpg"
+          ]
+        },
+        {
+          "specie_id": "0505",
+          "naziv": "Trifolium alpestre",
+          "opis": "This plant forms dense cushions 20 to 40 cm high with fine, soft grayish-green trifoliate leaves. The flowers are densely packed panicles in a deep red to purple color palette and bloom from May to July.",
+          "izvor": "https://gardenworld.app/en/blog/planten/trifolium-alpestre",
+          "slike": [
+            "/slike/0505/014c9936b2d084168ddc60d4d3a16884ba47f829.jpg",
+            "/slike/0505/0290932c3d268dd2ca1d29c2859d46cb0cee96c6.jpg",
+            "/slike/0505/03f80f83f40a945062799688de8ab0eff20fd1fb.jpg"
+          ]
+        }
+      ],
+      "grane": {
+        "slika": "nesiguran",
+        "tekst": "no_result"
+      }
+    }
+  },
+  "0312": {
+    "bez_raga": {
+      "tip": "uncertain",
+      "uvod": "The plant is likely one of the following species related to gourds, depending on the fruit shape and growth habit.",
+      "vrste": [
+        {
+          "naziv": "Lagenaria siceraria",
+          "opis": "This is the bottle gourd, known for producing fruits in a wide variety of shapes, including bottles, dumbbells, and long clubs. It features large, white, five-petaled flowers that open at night, and fuzzy, heart-shaped leaves on climbing vines."
+        },
+        {
+          "naziv": "Benincasa hispida",
+          "opis": "Also known as the wax gourd or winter melon, this plant produces large, oblong fruits covered in a characteristic white waxy coating and stiff hairs. It has yellow flowers and large, somewhat rough, lobed leaves on trailing stems."
+        },
+        {
+          "naziv": "Trichosanthes cucumerina",
+          "opis": "Commonly known as the snake gourd, this species produces very long, slender, and often twisted or curved green fruits that hang down from climbing vines. It features distinctive white flowers with fringed, lace-like petals and lobed leaves."
+        }
+      ]
+    },
+    "sa_ragom": {
+      "tip": "siguran",
+      "uvod": "The plant was successfully identified as Lagenaria siceraria.",
+      "vrste": [
+        {
+          "specie_id": "0312",
+          "naziv": "Lagenaria siceraria",
+          "opis": "Calabash fruits come in a variety of shapes, including huge and rounded, small and bottle-shaped, or slim and serpentine, and can grow over a metre long. When fresh, the fruit features a light green smooth skin and white flesh.",
+          "izvor": "https://en.wikipedia.org/wiki/Calabash",
+          "slike": [
+            "/slike/0312/00a7b4f1ed2fd649c38ddb9c9150a5fbbeb0dfd0.jpg",
+            "/slike/0312/011bb6a9329058e6abfa68c42a9fcf42aa220de9.jpg",
+            "/slike/0312/0125cf7304afaa0ae33693f896ef4b0f94d398de.jpg"
+          ]
+        }
+      ],
+      "grane": {
+        "slika": "siguran",
+        "tekst": "no_result"
+      }
+    }
+  },
+  "0126": {
+    "bez_raga": {
+      "tip": "confident",
+      "uvod": "The plant in the photograph has been identified as the white water lily.",
+      "vrste": [
+        {
+          "naziv": "Nymphaea odorata",
+          "opis": "This is an aquatic plant with large, rounded floating leaves that attach to underwater stems. It produces showy white flowers with bright yellow centers that float or rise slightly above the water surface. The fragrant blossoms typically open in the morning and close by afternoon."
+        }
+      ]
+    },
+    "sa_ragom": {
+      "tip": "nesiguran",
+      "uvod": "The system is not sure; these are the most likely species, in order from the most likely.",
+      "vrste": [
+        {
+          "specie_id": "0126",
+          "naziv": "Nymphaea alba",
+          "opis": "Nymphaea alba features round dark green leaves up to 35 cm in length and white flowers that float on the water's surface. The flowers start cup-shaped and about 8 cm in size, later growing up to 20 cm and becoming star-shaped with petals surrounding yellow stamens.",
+          "izvor": "https://en.wikipedia.org/wiki/Nymphaea_alba",
+          "slike": [
+            "/slike/0126/00670baecba510ccc671b73989dfe1224d67b1bf.jpg",
+            "/slike/0126/01482b0fbbb3480ef67c867012ceabcf816baca3.jpg",
+            "/slike/0126/017e064336ee2b5a616d8eed3051b11cd2199906.jpg"
+          ]
+        },
+        {
+          "specie_id": "0443",
+          "naziv": "Nymphaea candida",
+          "opis": "Nymphaea candida is an aquatic herb with oval to suborbicular floating leaves that are 10-30 cm long. Its bisexual flowers float on the water surface and feature 12-20 white petals and 32-70 stamens. The plant also produces green to red ovoid or spherical fruits containing brown seeds.",
+          "izvor": "https://en.wikipedia.org/wiki/Nymphaea_candida",
+          "slike": [
+            "/slike/0443/00010fa3df0c8e3cb250a03bc3fa8def684ef7d0.jpg",
+            "/slike/0443/0a5f6a429cf2fc66008ad271d1b1f5242ea04616.jpg",
+            "/slike/0443/1923a7589f8de3cf5161fe405eaf517f0afb04ac.jpg"
+          ]
+        },
+        {
+          "specie_id": "0315",
+          "naziv": "Barringtonia asiatica",
+          "opis": "Barringtonia asiatica is a tree growing up to 20 to 30 meters tall with dark, coarse bark and glossy, waxy, pear-shaped leaves. Its large, fragrant flowers grow in erect racemes, featuring four white petals and numerous long stamens that are white at the base and pink or purple at the tip. The fruit is large, somewhat pyramid-shaped, and roughly square in cross-section.",
+          "izvor": "https://en.wikipedia.org/wiki/Barringtonia_asiatica",
+          "slike": [
+            "/slike/0315/083f79bed45742e0b2d2689bf29304aec4db533d.jpg",
+            "/slike/0315/096a8a7421c0a10087a1b2860043a7ef0eb35dad.jpg",
+            "/slike/0315/0dc551d936faa108b0ed7b6bfcbb26799c50103d.jpg"
+          ]
+        }
+      ],
+      "grane": {
+        "slika": "nesiguran",
+        "tekst": "nesiguran"
+      }
+    }
+  },
+  "0360": {
+    "bez_raga": {
+      "tip": "confident",
+      "uvod": "The plant was identified as Cirsium helenioides.",
+      "vrste": [
+        {
+          "naziv": "Cirsium helenioides",
+          "opis": "This thistle-like perennial grows up to 150 cm tall with upright, unbranched, grooved stems that lack sharp spines. The leaves are deeply lobed, dark green on top, and covered with a distinctive dense, white woolly layer underneath. It produces bright reddish-purple flower heads that attract various pollinators during the summer."
+        }
+      ]
+    },
+    "sa_ragom": {
+      "tip": "nesiguran",
+      "uvod": "The system is not sure which species this is; these are the most likely species, in order from the most likely.",
+      "vrste": [
+        {
+          "specie_id": "0360",
+          "naziv": "Cirsium heterophyllum",
+          "opis": "Unusually for a thistle, this plant lacks spines and grows 45 to 120 cm tall with creeping stolons. The stem is grooved, unwinged, more-or-less branchless, and cottony. The upper leaves are green and hairless above, thick white-felted underneath, and clasp the stem with heart-shaped bases. Red-purple flower heads appear from July to August and are 3 to 5 cm long and wide.",
+          "izvor": "https://en.wikipedia.org/wiki/Cirsium_heterophyllum",
+          "slike": [
+            "/slike/0360/033e4de545387e6d011948f97c2fb15a82e57699.jpg",
+            "/slike/0360/041c22a3ad393f5a05f1ea34ed372620e69a03c1.jpg",
+            "/slike/0360/0461e584cecd23039efe222baaab559a5a6fc66f.jpg"
+          ]
+        },
+        {
+          "specie_id": "0039",
+          "naziv": "Cirsium monspessulanum",
+          "opis": "This strong, upright perennial grows up to 150 cm tall with stiffly erect stems that carry prominent spiny wings. The deeply pinnate, lobed leaves are mid-green above and paler and softly hairy beneath. From June through August, rounded flower heads measuring 2 to 3 cm across appear in dense terminal clusters, composed entirely of slender purple to rose-purple tubular florets.",
+          "izvor": "https://gardenworld.app/en/blog/planten/cirsium-monspessulanum",
+          "slike": [
+            "/slike/0039/021116ba3c73326f7fc753ff3efc6380472153d9.jpg",
+            "/slike/0039/05ab0ea33882482696d95ad0b17a180f582e9aa4.jpg",
+            "/slike/0039/09596e234b2978db6e5579f12fff1708569d4e20.jpg"
+          ]
+        },
+        {
+          "specie_id": "0170",
+          "naziv": "Cirsium palustre",
+          "opis": "This tall thistle reaches up to 2 metres in height with strong, few-branched stems covered in small spines. In its first year, it grows as a dense rosette with spiny, dark purple-edged leaves. In subsequent years, it grows a tall, straight stem that branches repeatedly at the tip to bear a candelabra of dark purple flowers from June to September.",
+          "izvor": "https://en.wikipedia.org/wiki/Cirsium_palustre",
+          "slike": [
+            "/slike/0170/002c4420a0fe69926a7d72bb96470a150cfaff39.jpg",
+            "/slike/0170/00e7677579a1c7a978c123f1480c37620dc849e2.jpg",
+            "/slike/0170/00ed91a3c996b811a9c9db963d8db8247b3b4e63.jpg"
+          ]
+        }
+      ],
+      "grane": {
+        "slika": "nesiguran",
+        "tekst": "nesiguran"
+      }
+    }
+  },
+  "0103": {
+    "bez_raga": {
+      "tip": "confident",
+      "uvod": "The plant was identified as Trifolium hybridum, commonly known as alsike clover.",
+      "vrste": [
+        {
+          "naziv": "Trifolium hybridum",
+          "opis": "Alsike clover is a perennial plant featuring compact, rounded flower heads that transition from white to pink as they age. Its leaves consist of three stalked, egg-shaped leaflets without central white markings, accompanied by small leafy appendages at the leaf base. The grooved stems are upright to sprawling and have sparse branches."
+        }
+      ]
+    },
+    "sa_ragom": {
+      "tip": "nesiguran",
+      "uvod": "The system is not sure which species this is; here are the most likely species in order from the most likely.",
+      "vrste": [
+        {
+          "specie_id": "0225",
+          "naziv": "Trifolium repens",
+          "opis": "This is a low-growing perennial plant with creeping stems that form mats. Its smooth leaves are divided into three leaflets, which are usually marked with light or dark spots. It produces flowering heads of whitish florets that can have a tinge of pink or cream.",
+          "izvor": "https://en.wikipedia.org/wiki/Trifolium_repens",
+          "slike": [
+            "/slike/0225/001f99e5c178ac2c3b2bf0cae257f34e3f7a72dc.jpg",
+            "/slike/0225/003016d182c24a8d2a3b49bf6ec3cbc5aa845bd0.jpg",
+            "/slike/0225/0053ed5b30b379684fa175f44b20c684ba5bbaba.jpg"
+          ]
+        },
+        {
+          "specie_id": "0103",
+          "naziv": "Trifolium hybridum",
+          "opis": "This perennial plant grows up to 40 centimetres tall with a semi-erect, grooved stem. The leaves feature three blunt-tipped leaflets with finely toothed margins and unspotted surfaces. It blooms with densely globose inflorescences consisting of pink petals.",
+          "izvor": "https://en.wikipedia.org/wiki/Trifolium_hybridum",
+          "slike": [
+            "/slike/0103/0249d1845f4b6ac2737ee908f6e6698f5c11dca2.jpg",
+            "/slike/0103/0394aca4f6d6aa23de4f94ec84001cd90bb5f641.jpg",
+            "/slike/0103/03e579b5bf29958393ea16e70039593426f52546.jpg"
+          ]
+        },
+        {
+          "specie_id": "0020",
+          "naziv": "Trifolium fragiferum",
+          "opis": "This perennial herb has much-branched stems and alternate leaves made of three oval leaflets with prominent veins. It produces round heads of numerous small flowers with white corollas that turn pink. The fruit forms a distinctive pinkish ball resembling a strawberry.",
+          "izvor": "https://en.wikipedia.org/wiki/Trifolium_fragiferum",
+          "slike": [
+            "/slike/0020/0093a878d959bee9ac635b58124772706b3ba2b7.jpg",
+            "/slike/0020/01e8b3f58f57281c0bd4dccfce56912ac62fb702.jpg",
+            "/slike/0020/0225be0c6ac9dff5c0628e4ef971b78c301185d3.jpg"
+          ]
+        }
+      ],
+      "grane": {
+        "slika": "nesiguran",
+        "tekst": "nesiguran"
+      }
+    }
+  },
+  "van_teme_zlatni_retriver": {
+    "bez_raga": {
+      "tip": "uncertain",
+      "uvod": "The provided image does not show a plant, but rather a dog in the water. Therefore, plant identification is not possible.",
+      "vrste": []
+    },
+    "sa_ragom": {
+      "tip": "no_result",
+      "uvod": "The plant could not be identified. Please try again with a better photo and/or description.",
+      "vrste": [],
+      "grane": {
+        "slika": "abstain",
+        "tekst": "no_result"
+      }
+    }
+  },
+  "van_teme_kuca": {
+    "bez_raga": {
+      "tip": "uncertain",
+      "uvod": "The image mainly displays a house in a mountainous landscape, so no clear plant specimen is visible for identification.",
+      "vrste": []
+    },
+    "sa_ragom": {
+      "tip": "no_result",
+      "uvod": "The plant could not be identified. Please try again with a better photo and/or description.",
+      "vrste": [],
+      "grane": {
+        "slika": "abstain",
+        "tekst": "no_result"
+      }
+    }
+  },
+  "van_teme_orman": {
+    "bez_raga": {
+      "tip": "uncertain",
+      "uvod": "The provided image does not contain any plants. It shows a wooden wardrobe and a bedside table in a bedroom.",
+      "vrste": []
+    },
+    "sa_ragom": {
+      "tip": "no_result",
+      "uvod": "The plant could not be identified. Please try again with a better photo and/or description.",
+      "vrste": [],
+      "grane": {
+        "slika": "abstain",
+        "tekst": "no_result"
+      }
+    }
+  }
+}

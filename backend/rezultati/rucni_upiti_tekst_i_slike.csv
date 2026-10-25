@@ -1,0 +1,6 @@
+specie_id,vrsta,slike,tip,ishod_slika,ishod_tekst,predvidjene,hit1,hit2,hit3
+0416,Kniphofia uvaria,35cedbb5866b74058d8c8508434d0278b3d5656b.jpg|67c5c6b3cde31feedcda7d00ebd888ec4fa8e0cd.jpg|d12f16098e0c7f9e5d3a743e01a20afc2a9d8359.jpg,siguran,siguran,siguran,0416,1,1,1
+0072,Hypericum hircinum,36232cfd06b0962538888648a9a16c1fa94f31ab.jpg|9f9ef2dae25e069139055319d5e6cf6a755033ce.jpg|7e8f25f14b011730013cdcb14768f5a0990686f4.jpg,nesiguran,nesiguran,nesiguran,0068|0072|0554,0,1,1
+0355,Lophiolepis eriophora,e80354f4c5da4e91fb4bf6ee28733903bcdc20aa.jpg|b5edfa4b92b282868350767edee16f6636c22717.jpg|f3b02a7fdf754fe030e5989c8568dae76c44178a.jpg,nesiguran,nesiguran,nesiguran,0521|0355|0004,0,1,1
+0312,Lagenaria siceraria,fcb41aa51c434f05b4a52012b1a65941b21592a0.jpg|e8375634d4aa437acc9d2d941140bf60abe4a908.jpg|9eaf959171cb1f38d12e750e3dd12c904a1bd5a2.jpg,nesiguran,siguran,nesiguran,0312|0310|0628,1,1,1
+0154,Butomus umbellatus,77190099f68aad74cb3691e4323218980def4412.jpg|e9f877007bfb546d4446cf5d862ed5a60913286a.jpg|d0ce6bff86812907eb5fe3af1e177b495be32e41.jpg,nesiguran,siguran,nesiguran,0154|0514|0002,1,1,1

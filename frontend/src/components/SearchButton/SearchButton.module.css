@@ -1,0 +1,21 @@
+.button {
+  font: inherit;
+  font-size: 16px;
+  font-weight: 500;
+  color: #fff;
+  background: var(--accent);
+  border: 1px solid var(--accent);
+  border-radius: 8px;
+  padding: 12px 24px;
+  cursor: pointer;
+  align-self: flex-start;
+}
+
+.button:hover:not(:disabled) {
+  filter: brightness(1.1);
+}
+
+.button:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}

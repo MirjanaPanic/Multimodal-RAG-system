@@ -1,0 +1,67 @@
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.label {
+  font-size: 15px;
+  font-weight: 500;
+  color: var(--text-h);
+}
+
+.dropArea {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  text-align: center;
+  padding: 24px 16px;
+  border: 1px dashed var(--border);
+  border-radius: 8px;
+  background: var(--accent-bg);
+  cursor: pointer;
+}
+
+.dropArea:hover {
+  border-color: var(--accent-border);
+}
+
+.dropArea:focus-within {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+}
+
+.icon {
+  font-size: 24px;
+  line-height: 1;
+  color: var(--accent);
+}
+
+.mainText {
+  font-size: 15px;
+  font-weight: 500;
+  color: var(--text-h);
+}
+
+.hintText {
+  font-size: 13px;
+  color: var(--text);
+  max-width: 34ch;
+}
+
+.input {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+.error {
+  font-size: 13px;
+  color: #d4183d;
+}

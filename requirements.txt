@@ -1,0 +1,49 @@
+Python 3.14.7, CUDA 12.6 
+Qdrant 1.19.1
+Node 24.15.0, npm 11.12.1
+(react 19.2.8, vite 8.2.2, typescript 6.0.3, @vitejs/plugin-react 6.1.1, oxlint 1.82.0)
+
+aplikacija:
+  imageomics/bioclip          
+  BAAI/bge-large-en-v1.5       
+  gemini-3.5-flash-lite        
+samo validacija i evaluacija:
+  BAAI/bge-small-en-v1.5       
+  BAAI/bge-base-en-v1.5          
+
+Slike: Pl@ntNet-300K, doi:10.5281/zenodo.4726653 (spisak: backend/dataset/spisak_slika.csv.gz)
+
+---------- aplikacija: server.py i pravljenje baza ----------
+torch==2.14.0+cu126
+torchvision==0.29.0+cu126
+open_clip_torch==3.3.0
+timm==1.0.29
+sentence-transformers==6.1.0
+transformers==5.17.0
+tokenizers==0.23.2
+safetensors==0.8.0
+huggingface_hub==1.30.0
+qdrant-client==1.19.0
+fastapi==0.142.2
+starlette==1.7.0
+pydantic==2.13.5
+uvicorn==0.54.0
+python-multipart==0.0.32
+google-genai==2.24.0
+pillow==12.3.0
+numpy==2.5.2
+pandas==3.0.5
+tqdm==4.70.0
+
+ ---------- validacija parametara i evaluacija ----------
+scipy==1.18.1
+scikit-learn==1.9.1
+matplotlib==3.11.2
+plotly==7.0.0
+umap-learn==0.5.12
+requests==2.34.2
+ipykernel==7.3.0
+ipython==9.17.1
+
+---------- preuzimanje opisa sa Wikipedije (preuzmi_wikipedia_description.py) ----------
+truststore==0.10.4

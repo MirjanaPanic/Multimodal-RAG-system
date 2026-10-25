@@ -1,0 +1,27 @@
+{
+  "_meta": {
+    "opis": "Laički opisi 18 poznatih vrsta iz baze, napisani iz opšteg znanja, bez gledanja kartica iz knowledge_base.json. Gruba provera rada sa rečnikom običnog korisnika; mali skup, nije zamena za veći nezavisan skup.",
+    "napisao": "Claude (AI asistent), na zahtev autorke",
+    "datum": "2026-09-25"
+  },
+  "upiti": {
+    "0200": "Bright red flowers with four papery petals, often with a black blotch at the base, growing in wheat fields; hairy stems and a round seed capsule.",
+    "0011": "Yellow star-shaped flowers with many stamens; when you hold a leaf up to the light it seems to have tiny holes; small black dots on the petals.",
+    "0225": "Low creeping plant in lawns with three rounded leaflets, often with a pale V-shaped mark, and white round flower heads.",
+    "0112": "Clover with pinkish purple round flower heads and three leaflets with a pale crescent mark, common in meadows.",
+    "0203": "Flat white umbrella-shaped flower cluster with one dark purple flower in the middle; feathery finely divided leaves; the cluster curls into a nest when it goes to seed.",
+    "0035": "Bright orange daisy-like flowers, sticky aromatic leaves and curved hooked seeds.",
+    "0172": "Small grey-green shrub with narrow leaves and spikes of small purple fragrant flowers.",
+    "0126": "Large white flowers floating on a pond with many petals and a yellow centre; round floating leaves with a slit.",
+    "0123": "Very tall single stem up to two meters with big funnel-shaped pink, red or white flowers along the stem and rough rounded leaves.",
+    "0237": "Small plant with white five-petalled flowers and three toothed leaflets, spreading with runners; tiny red fruits with seeds on the outside.",
+    "0031": "Climbing vine twisting around supports, rough lobed leaves and green papery cone-like flowers.",
+    "0046": "Low mat of tiny fleshy leaves on rocks and walls with bright yellow star-shaped flowers.",
+    "0420": "Looks like a nettle but does not sting, white hooded flowers in rings around a square stem.",
+    "0122": "Shrub with glossy leaves, bright orange-red flowers with crumpled petals and a thick fleshy calyx, and a round fruit with a crown.",
+    "0405": "Thorny shrub with narrow silvery leaves and dense clusters of small bright orange berries along the branches.",
+    "0242": "Big round pompom flowers in orange or yellow and strong-smelling, finely divided leaves.",
+    "0472": "Low hairy plant with bell-shaped purple flowers and yellow stamens in early spring, later feathery silky seed heads.",
+    "0310": "Sprawling plant with large rough lobed leaves, big yellow trumpet-shaped flowers and large fruits."
+  }
+}

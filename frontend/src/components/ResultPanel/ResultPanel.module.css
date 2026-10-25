@@ -1,0 +1,104 @@
+.panel {
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--border);
+  border-radius: 8px;
+  padding: 24px;
+  background: var(--surface);
+  min-height: 220px;
+}
+
+.title {
+  font-size: 20px;
+  margin: 0 0 8px;
+  color: var(--text-h);
+}
+
+.body {
+  font-size: 15px;
+  color: var(--text);
+  max-width: 64ch;
+}
+
+.speciesList {
+  list-style: none;
+  margin: 20px 0 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.species {
+  border-top: 1px solid var(--border);
+  padding-top: 16px;
+}
+
+.speciesName {
+  font-family: var(--heading);
+  font-size: 17px;
+  font-weight: 500;
+  color: var(--text-h);
+  margin: 0 0 6px;
+}
+
+.position {
+  margin-right: 6px;
+  color: var(--text);
+}
+
+.speciesText {
+  font-size: 15px;
+  color: var(--text);
+  max-width: 64ch;
+}
+
+.photos {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.photo {
+  width: 100%;
+  aspect-ratio: 1;
+  object-fit: cover;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  background: var(--code-bg);
+}
+
+.source {
+  display: inline-block;
+  margin-top: 8px;
+  font-size: 13px;
+  color: var(--accent);
+}
+
+.details {
+  margin-top: 20px;
+  padding-top: 12px;
+  border-top: 1px solid var(--border);
+  font-size: 13px;
+  color: var(--text);
+  overflow-wrap: anywhere;
+}
+
+.idle {
+  border-left-color: var(--border);
+}
+.loading {
+  border-left-color: var(--text);
+}
+.confident {
+  border-left-color: var(--accent);
+}
+.ambiguous {
+  border-left-color: #d99a2b;
+}
+.none {
+  border-left-color: var(--text);
+}
+.error {
+  border-left-color: #d4183d;
+}

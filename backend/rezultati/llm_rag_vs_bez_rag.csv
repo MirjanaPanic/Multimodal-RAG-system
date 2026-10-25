@@ -1,0 +1,10 @@
+﻿grupa,upit,tačna vrsta,bez RAG-a: tip,bez RAG-a: navedene vrste,bez RAG-a Hit@1,bez RAG-a Hit@3,RAG: tip,RAG: navedene vrste,RAG Hit@1,RAG Hit@3
+samo tekst,short / 0 slika,Pulsatilla alpina,uncertain,Cerastium tomentosum | Stachys byzantina,0,0,uncertain,Anemonoides sylvestris | Phyllanthus tenellus | Lycoris squamigera,0,0
+samo tekst,detailed / 0 slika,Ophrys lutea,confident,Ophrys lutea,1,1,confident,Ophrys lutea,1,1
+samo tekst,detailed / 0 slika,Sedum album,confident,Sedum album,1,1,uncertain,Sedum album | Trifolium repens | Sedum acre,1,1
+samo slike,- / 1 slika,Lactuca muralis,confident,Lapsana communis,0,0,uncertain,Lactuca muralis | Lactuca viminea | Lapsana communis,1,1
+samo slike,- / 3 slika,Trifolium rubens,confident,Trifolium incarnatum,0,0,uncertain,Trifolium incarnatum | Trifolium rubens | Trifolium alpestre,0,1
+samo slike,- / 5 slika,Lagenaria siceraria,uncertain,Lagenaria siceraria | Benincasa hispida | Trichosanthes cucumerina,1,1,confident,Lagenaria siceraria,1,1
+tekst + slike,short / 1 slika,Nymphaea alba,confident,Nymphaea odorata,0,0,uncertain,Nymphaea alba | Nymphaea candida | Barringtonia asiatica,1,1
+tekst + slike,detailed / 3 slika,Cirsium heterophyllum,confident,Cirsium helenioides,0,0,uncertain,Cirsium heterophyllum | Cirsium monspessulanum | Cirsium palustre,1,1
+tekst + slike,detailed / 5 slika,Trifolium hybridum,confident,Trifolium hybridum,1,1,uncertain,Trifolium repens | Trifolium hybridum | Trifolium fragiferum,0,1
